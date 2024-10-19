@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Plots/static/css/main.6987bb41.css",
+    "main.js": "/Plots/static/js/main.1421787b.js",
+    "static/media/tips.csv": "/Plots/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/Plots/index.html",
+    "main.6987bb41.css.map": "/Plots/static/css/main.6987bb41.css.map",
+    "main.1421787b.js.map": "/Plots/static/js/main.1421787b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6987bb41.css",
+    "static/js/main.1421787b.js"
+  ]
+}
